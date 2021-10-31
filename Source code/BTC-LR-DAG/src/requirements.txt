@@ -1,0 +1,7 @@
+httpimport
+influxdb_client
+pandas
+numpy
+datetime
+urllib3
+torch
